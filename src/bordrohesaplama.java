@@ -71,7 +71,7 @@ public class bordrohesaplama {
         float netmaas = (float) (brutmaas - kesintilertoplami);
 
 
-        //    Sonuc
+        //    SONUC
 
         System.out.println("Brüt Maaş               : " + brutmaas + " TL");
         System.out.println("SGK İşçi Payı           : " + sgkiscipayi + " TL");
