@@ -58,7 +58,7 @@ public class bordrohesaplama {
         double damgavergisi = brutmaas * 0.00759;
 
 
-        //indrimili damga vergisi
+        // indrimili damga vergisi
         double audvi= 151.82;
         float indirimlidamgavergisi = (float)  (damgavergisi - audvi);
 
