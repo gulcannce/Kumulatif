@@ -4,22 +4,18 @@ public class bordrohesaplama {
 
     /*
             Brüt maaş: Kullanıcıdan girilmesi isteniyor.
-
         SGK İşçi Payı: Brüt maaşın %14'ü olarak hesaplanıyor.
 
         İşsizlik İşçi Payı: Brüt maaşın %1'i olarak hesaplanıyor.
-
         Gelir Vergisi: Gelir vergisi matrahına göre %15 oranında hesaplanıyor.
 
         İndirimli Gelir Vergisi: Gelir vergisinden 6000 TL indirim yapılıyor.
-
         Damga Vergisi: Brüt maaşın %0.759'u
 
         İndirimli Damga Vergisi: Damga vergisinden 1500 TL indirim uygulanıyor.
-
         Kesintiler Toplamı: Tüm kesintiler toplanarak hesaplanıyor.
-
         Net Maaş: Brüt maaştan tüm kesintiler çıkarılarak net maaş hesaplanıyor.
+
        */
 
     public static void main(String[] args) {
